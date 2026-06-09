@@ -30,9 +30,22 @@
 
 ---
 
-### B — Estimation Analyst
+### Neisya Nurfadilah — Estimation Analyst
 
-(Akan diisi oleh Anggota B.)
+| No | Tugas | Alat | Prompt | Cara Output Digunakan |
+|----|--------|------|---------|----------------------|
+| 1 | Mencari kesalahan kode Python pada notebook estimasi | ChatGPT | "Apakah ada error atau bug pada kode estimasi ini?" | Digunakan untuk menemukan kesalahan sintaks dan logika sebelum analisis dijalankan |
+| 2 | Memeriksa perhitungan Confidence Interval Bernoulli | ChatGPT | "Apakah implementasi confidence interval Bernoulli pada kode ini sudah benar?" | Digunakan sebagai validasi konsep statistik yang diterapkan |
+| 3 | Membantu memahami fungsi pandas yang digunakan | ChatGPT | "Jelaskan fungsi kode pandas berikut dan outputnya" | Digunakan untuk memahami proses pengolahan data sebelum ditulis pada laporan |
+| 4 | Membantu menyusun Research Question | ChatGPT | "Buatkan beberapa research question berdasarkan analisis estimasi data ini" | Digunakan sebagai referensi awal, kemudian disesuaikan kembali oleh anggota kelompok |
+
+**Ditulis tanpa AI:** 
+- Implementasi kode pada notebook.
+- Menjalankan eksperimen dan pengujian.
+- Interpretasi hasil estimasi.
+- Penulisan kesimpulan akhir.
+- Pengambilan keputusan analisis.
+
 
 ---
 
